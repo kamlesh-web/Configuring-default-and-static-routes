@@ -1,4 +1,5 @@
 ## Default & Static Routes Overview
+<img width="1366" height="768" alt="Static Routes 3" src="https://github.com/user-attachments/assets/682ef8e8-0046-4f35-875b-646d77e220de" />
 
 ---
 ## Configuring-default-and-static-routes
@@ -88,6 +89,7 @@
 ---
 
 ## Ping Test
+<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/e775b352-f589-4bd2-b3bd-3a44c3d339e3" />
 
 	Type escape sequence to abort.
 	Sending 5, 100-byte ICMP Echos to 192.168.101.2, timeout is 2 seconds:
