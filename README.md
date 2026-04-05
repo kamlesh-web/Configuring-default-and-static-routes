@@ -86,10 +86,6 @@
 	[OK]
 	Router(config)#
 	Router(config)#do ping 192.168.101.2
----
-
-## Ping Test
-<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/e775b352-f589-4bd2-b3bd-3a44c3d339e3" />
 
 	Type escape sequence to abort.
 	Sending 5, 100-byte ICMP Echos to 192.168.101.2, timeout is 2 seconds:
@@ -97,3 +93,9 @@
 	Success rate is 100 percent (5/5), round-trip min/avg/max = 8/14/20 ms
 	
 	Router(config)#
+
+
+---
+
+## Ping Test
+<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/e775b352-f589-4bd2-b3bd-3a44c3d339e3" />
