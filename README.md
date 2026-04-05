@@ -1,4 +1,7 @@
-	# Configuring-default-and-static-routes
+## Default & Static Routes Overview
+
+---
+## Configuring-default-and-static-routes
 	
 	Router>
 	Router>enable
@@ -82,7 +85,10 @@
 	[OK]
 	Router(config)#
 	Router(config)#do ping 192.168.101.2
-	
+---
+
+## Ping Test
+
 	Type escape sequence to abort.
 	Sending 5, 100-byte ICMP Echos to 192.168.101.2, timeout is 2 seconds:
 	!!!!!
